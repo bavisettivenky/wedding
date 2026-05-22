@@ -40,7 +40,7 @@ export default function WeddingInvitation() {
           <FamilySection />
           <EventsTimeline />
           <CoupleStory />
-          <PhotoGallery />
+          {/* <PhotoGallery /> */}
           <VenueSection />
           <HospitalitySection />
           <Footer />
