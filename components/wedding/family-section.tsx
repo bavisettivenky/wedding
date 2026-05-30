@@ -31,8 +31,8 @@ export function FamilySection() {
             <p className="text-sm tracking-[0.2em] text-[#c9a227] uppercase mb-4">
               {"Groom's Family"}
             </p>
-            <h3 className="text-2xl text-[#800020] font-semibold mb-2">Chandina Ramudu</h3>
-            <h3 className="text-2xl text-[#800020] font-semibold mb-4">Chanti</h3>
+            <h3 className="text-2xl text-[#800020] font-semibold mb-2">Mr. Chandina Ramudu</h3>
+            <h3 className="text-2xl text-[#800020] font-semibold mb-4">Mrs. Chanti</h3>
             <p className="text-muted-foreground italic">
               {"With love from Swamy's family"}
             </p>
@@ -49,8 +49,8 @@ export function FamilySection() {
             <p className="text-sm tracking-[0.2em] text-[#c9a227] uppercase mb-4">
               {"Bride's Family"}
             </p>
-            <h3 className="text-2xl text-[#800020] font-semibold mb-2">Katta Srinivas</h3>
-            <h3 className="text-2xl text-[#800020] font-semibold mb-4">prabhavati</h3>
+            <h3 className="text-2xl text-[#800020] font-semibold mb-2">Mr. Katta Srinivas</h3>
+            <h3 className="text-2xl text-[#800020] font-semibold mb-4">Mrs. prabhavati</h3>
             <p className="text-muted-foreground italic">
               {"With blessings from Satya's family"}
             </p>

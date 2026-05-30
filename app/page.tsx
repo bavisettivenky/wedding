@@ -21,7 +21,7 @@ export default function WeddingInvitation() {
   const [showContent, setShowContent] = useState(false)
 
   return (
-    <main className="relative">
+    <main className="relative p-3">
       {/* Entry Screen */}
       {!showContent && <EntryScreen onEnter={() => setShowContent(true)} />}
 
@@ -36,7 +36,6 @@ export default function WeddingInvitation() {
 
           {/* Page Sections */}
           <HeroSection />
-          <CountdownTimer />
           <FamilySection />
           <EventsTimeline />
           <CoupleStory />
